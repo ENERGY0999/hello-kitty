@@ -22,7 +22,8 @@
   },
   "scripts": {
   "prebuild": "chmod +x node_modules/.bin/vite",
-  "build": "vite build"
+  "build": "vite build",
+  "dev": "vite"
 }
 
 }
